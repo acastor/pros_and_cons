@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/pros_and_cons",
   siteMetadata: {
     title: `Pros and Cons`,
     description: `Weigh the effects of your next big decision.`,
